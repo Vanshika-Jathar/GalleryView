@@ -1,1 +1,1 @@
-# GalleryVeiw
+# GalleryView
